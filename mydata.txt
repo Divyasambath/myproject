@@ -1,2 +1,2 @@
-this is mine  document for github demo.
+this is my  document for github demo.
 now edit this file
